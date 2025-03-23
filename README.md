@@ -31,10 +31,10 @@ This calculator application features a robust architecture with pandas integrati
 
 ```bash
 # Clone the repository
-git clone git@github.com:yourusername/midterm.git
+git clone git@github.com:jffuller8/midterm.git
 
 # Or clone with HTTPS
-git clone https://github.com/yourusername/midterm.git
+git clone https://github.com/jffuller8/midterm.git
 
 # Create and activate virtual environment
 python3 -m venv venv
