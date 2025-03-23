@@ -1,12 +1,12 @@
-"""Multiplication plugin"""
+"""Subtraction plugin"""
 from .plugin_base import CalculatorPlugin
 
-class MultiplyPlugin(CalculatorPlugin):
+class SubtractPlugin(CalculatorPlugin):
     def get_command(self):
-        return "multiply"
+        return "subtract"
     
     def get_description(self):
-        return "Multiply two numbers"
+        return "Subtract second number from first"
     
     def execute(self, a: float, b: float) -> float:
-        return a * b
+        return a - b
