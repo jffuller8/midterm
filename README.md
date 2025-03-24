@@ -2,6 +2,9 @@
 
 This calculator application features a robust architecture with pandas integration, multiple design patterns, and comprehensive logging.
 
+## Demonstration Video
+https://www.loom.com/share/7a625fed74ac432da7d9d61048ecb805?sid=8d41f81b-32c5-4c09-a57d-0f428cee4323
+
 ## Features
 
 ### Core Calculator Functionality
